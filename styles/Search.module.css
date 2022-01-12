@@ -1,0 +1,39 @@
+.search {
+    height: 100px;
+    width: 100%;
+    color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+.search input {
+    width: 500px;
+    height: 35px;
+    padding:5px;
+    border: 1px #777 solid;
+    border-radius: 5px;
+}
+
+.sort {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.sort select {
+    width: 200px;
+    height: 35px;
+    border: 1px #6504b5 solid;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.sort p {
+    margin-right: 20px;
+}
