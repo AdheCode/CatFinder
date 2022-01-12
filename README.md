@@ -7,7 +7,7 @@
 ![screenshot image](/screenshot_searching.png)
 
 
-- Demo: <https://siftnpick-adhecode.vercel.app/>
+- Demo: <https://catfinder-adhecode.vercel.app/>
 
 This project is a find cats application. It was created with NextJs Framework.
 

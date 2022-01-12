@@ -1,5 +1,5 @@
 {
-  "name": "siftnpick-frontend",
+  "name": "catfinder-frontend",
   "private": true,
   "scripts": {
     "dev": "next dev",
